@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+  }
+
+  body {
+    background-image: url("../images/dust_scratches.png");
+    margin: 0 auto;
+    color: #777777;
+  }
+  
+  .btn-primary{
+      margin: 0 5px 0 5px;
+  }
+
+  .container{
+      width: 100%;
+      margin-top: 10px;
+      margin-left: 0;
+    
+  }
+
+#animal-form{
+    align-self: flex-end;
+    float: right;
+}
